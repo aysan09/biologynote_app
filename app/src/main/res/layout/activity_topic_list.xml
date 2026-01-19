@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?attr/colorBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Moon icon toggle -->
+    <ImageButton
+        android:id="@+id/toggleDarkBtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="end"
+        android:background="?attr/colorCard"
+        android:padding="6dp"
+        android:src="@drawable/ic_moon"
+        android:contentDescription="Toggle Dark Mode"
+        app:tint="?attr/colorText" />
+
+    <TextView
+        android:text="Biology Reference"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="?attr/colorText"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/topicListView"
+        android:divider="?attr/colorCard"
+        android:dividerHeight="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

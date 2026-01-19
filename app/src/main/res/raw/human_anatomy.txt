@@ -1,0 +1,37 @@
+Human Anatomy
+
+Human anatomy is the study of the structure of the human body.
+
+Major Systems:
+1. Skeletal System:
+   - Provides structure and support.
+   - Protects organs and facilitates movement.
+
+2. Muscular System:
+   - Enables movement.
+   - Maintains posture and generates heat.
+
+3. Circulatory System:
+   - Heart, blood, and vessels transport nutrients and oxygen.
+
+4. Respiratory System:
+   - Lungs and airways for gas exchange (O2 in, CO2 out).
+
+5. Digestive System:
+   - Breaks down food, absorbs nutrients, eliminates waste.
+
+6. Nervous System:
+   - Brain, spinal cord, nerves.
+   - Controls body functions and responds to stimuli.
+
+7. Endocrine System:
+   - Glands producing hormones to regulate processes.
+
+8. Reproductive System:
+   - Ensures continuation of species.
+
+9. Urinary System:
+   - Filters blood and removes waste as urine.
+
+10. Immune System:
+    - Protects against pathogens and diseases.

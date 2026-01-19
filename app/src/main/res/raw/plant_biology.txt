@@ -1,0 +1,31 @@
+Plant Biology
+
+Plant Biology is the study of plant structure, function, growth, reproduction, and adaptation.
+
+Key Areas:
+1. Plant Cells and Tissues:
+   - Cell walls, chloroplasts, vacuoles.
+   - Meristematic and permanent tissues.
+   - Transport systems (xylem and phloem).
+
+2. Photosynthesis:
+   - Light-dependent and light-independent reactions.
+   - Role of chlorophyll in energy capture.
+   - Factors affecting photosynthesis.
+
+3. Plant Physiology:
+   - Transpiration, respiration, nutrient absorption.
+   - Plant hormones such as auxins, gibberellins, and cytokinins.
+   - Tropisms and responses to environmental stimuli.
+
+4. Reproduction in Plants:
+   - Sexual and asexual reproduction.
+   - Pollination, fertilization, seed formation, germination.
+
+5. Plant Diversity and Evolution:
+   - Non-vascular and vascular plants.
+   - Gymnosperms and angiosperms.
+   - Adaptations for survival in different environments.
+
+Applications:
+- Agriculture, plant breeding, forestry, medicinal plants.

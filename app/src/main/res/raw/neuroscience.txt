@@ -1,0 +1,31 @@
+Neuroscience
+
+Neuroscience studies the structure and function of the nervous system.
+
+Key Areas:
+1. Neurons and Neuroglia:
+   - Structure and types of neurons.
+   - Synapses, neurotransmitters, and signal transmission.
+
+2. Brain Structure and Function:
+   - Cerebrum, cerebellum, brainstem.
+   - Memory, emotions, movement control.
+
+3. Neural Communication:
+   - Action potentials and synaptic transmission.
+   - Excitatory and inhibitory signaling.
+
+4. Sensory Systems:
+   - Vision, hearing, smell, taste, and touch.
+   - Processing of sensory information.
+
+5. Motor Systems:
+   - Reflex arcs and voluntary movement.
+   - Role of the spinal cord and motor cortex.
+
+6. Neurological Disorders:
+   - Parkinson’s disease, Alzheimer’s disease, epilepsy.
+   - Mental health and neural dysfunction.
+
+Applications:
+- Brain imaging, neuroprosthetics, neural engineering.

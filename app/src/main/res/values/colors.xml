@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+    <color name="colorTextLight">#000000</color>
+    <color name="colorCardLight">#F5F5F5</color>
+
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorTextDark">#FFFFFF</color>
+    <color name="colorCardDark">#1F1F1F</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color> <!-- white background -->
+</resources>

@@ -1,0 +1,31 @@
+Biochemistry
+
+Biochemistry focuses on the chemical processes and molecules essential for life.
+
+Key Areas:
+1. Biomolecules:
+   - Proteins, carbohydrates, lipids, nucleic acids.
+   - Roles and structures of major biological molecules.
+
+2. Enzymes:
+   - Catalysts that speed up biochemical reactions.
+   - Factors affecting enzyme activity like pH and temperature.
+
+3. Metabolism:
+   - Catabolism and anabolism.
+   - ATP production and energy flow in cells.
+
+4. Cellular Respiration:
+   - Glycolysis, Krebs cycle, electron transport chain.
+   - Aerobic and anaerobic pathways.
+
+5. Photosynthesis:
+   - Light reactions and the Calvin cycle.
+   - Production of glucose and oxygen.
+
+6. Genetic Information Flow:
+   - DNA replication, transcription, translation.
+   - Central dogma of molecular biology.
+
+Applications:
+- Medicine, drug design, nutrition, biotechnology.

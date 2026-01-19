@@ -1,0 +1,27 @@
+Cell Biology
+
+The cell is the fundamental structural and functional unit of all living organisms. All life forms are made up of cells. Cells can be classified into two main types:
+
+1. Prokaryotic Cells:
+   - Lack a defined nucleus.
+   - Example: Bacteria and Archaea.
+   - Contain ribosomes, plasma membrane, cytoplasm, but no membrane-bound organelles.
+
+2. Eukaryotic Cells:
+   - Contain a nucleus and membrane-bound organelles.
+   - Examples: Plant cells, animal cells, fungi, protists.
+
+Key Cell Structures:
+- Nucleus: Stores genetic material (DNA) and coordinates activities like growth and reproduction.
+- Cytoplasm: Gel-like substance containing organelles.
+- Mitochondria: Produces energy via cellular respiration.
+- Ribosomes: Synthesizes proteins.
+- Endoplasmic Reticulum: Rough ER synthesizes proteins; Smooth ER synthesizes lipids.
+- Golgi Apparatus: Modifies, sorts, and packages proteins.
+- Lysosomes: Digestive enzymes to break down waste.
+
+Functions of Cells:
+- Metabolism: Chemical reactions that sustain life.
+- Growth: Increase in size and number of cells.
+- Reproduction: Division to produce new cells.
+- Response: React to environmental stimuli.

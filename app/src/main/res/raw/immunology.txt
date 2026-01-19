@@ -1,0 +1,30 @@
+Immunology
+
+Immunology is the study of the immune system and how the body protects itself from pathogens.
+
+Key Areas:
+1. Innate Immunity:
+   - First line of defense including skin, mucus, and inflammation.
+   - Rapid, non-specific immune response.
+
+2. Adaptive Immunity:
+   - B-cells, T-cells, and antibodies.
+   - Memory formation and long-term protection.
+
+3. Antigens and Antibodies:
+   - Structure and function of antibodies.
+   - Specific antigen recognition.
+
+4. Immune System Organs:
+   - Thymus, bone marrow, spleen, lymph nodes.
+
+5. Vaccines:
+   - Live-attenuated, inactivated, and mRNA vaccines.
+   - Concepts of immunity and disease prevention.
+
+6. Immune Disorders:
+   - Autoimmune diseases, allergies, hypersensitivity.
+   - Immunodeficiency conditions such as HIV.
+
+Applications:
+- Vaccine development, immunotherapy, diagnostic testing.

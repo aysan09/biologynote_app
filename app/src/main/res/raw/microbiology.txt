@@ -1,0 +1,42 @@
+Microbiology
+
+Microbiology is the study of microorganisms, which are organisms too small to be seen with the naked eye.
+
+Types of Microorganisms:
+1. Bacteria:
+   - Single-celled prokaryotes.
+   - Shapes: cocci (spherical), bacilli (rod), spirilla (spiral).
+   - Can be beneficial (gut microbiota) or pathogenic (cause disease).
+
+2. Viruses:
+   - Non-living infectious agents.
+   - Require a host cell to reproduce.
+   - Examples: Influenza virus, HIV, Coronavirus.
+
+3. Fungi:
+   - Eukaryotic organisms (yeasts, molds, mushrooms).
+   - Decomposers in ecosystems; some cause disease.
+
+4. Protozoa:
+   - Single-celled eukaryotes.
+   - Often found in water; some cause malaria or amoebiasis.
+
+5. Algae:
+   - Photosynthetic eukaryotes.
+   - Produce oxygen and form the base of aquatic food chains.
+
+6. Archaea:
+   - Prokaryotes living in extreme environments.
+   - Not harmful to humans but important for research.
+
+Applications of Microbiology:
+- Medicine: Antibiotics, vaccines, disease diagnosis.
+- Agriculture: Soil fertility, nitrogen fixation.
+- Biotechnology: Fermentation, enzyme production.
+- Environmental: Waste treatment, bioremediation.
+
+Important Techniques:
+- Microscopy: Light and electron microscopes.
+- Culturing: Growing microbes in controlled conditions.
+- Staining: Gram staining for bacterial classification.
+- Molecular Methods: PCR, DNA sequencing for identification.

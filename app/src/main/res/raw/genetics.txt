@@ -1,0 +1,23 @@
+Genetics
+
+Genetics is the branch of biology that studies heredity and variation in organisms. It explains how traits are passed from parents to offspring.
+
+Key Concepts:
+- DNA (Deoxyribonucleic Acid): The molecule that carries genetic instructions.
+- Genes: Segments of DNA responsible for specific traits.
+- Chromosomes: Thread-like structures containing many genes.
+- Alleles: Different versions of a gene (dominant or recessive).
+
+Inheritance Patterns:
+- Mendelian Inheritance: Dominant and recessive traits.
+- Co-dominance: Both alleles are expressed.
+- Sex-linked Inheritance: Traits linked to X or Y chromosomes.
+
+Mutations:
+- Changes in DNA sequence.
+- Can be harmful, neutral, or beneficial.
+- Source of genetic variation.
+
+Applications:
+- Genetic engineering: Modifying genes for agriculture or medicine.
+- Disease prevention: Identifying hereditary disorders.

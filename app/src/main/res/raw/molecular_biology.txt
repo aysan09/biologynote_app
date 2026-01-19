@@ -1,0 +1,31 @@
+Molecular Biology
+
+Molecular Biology explores how genetic information is stored, expressed, and regulated within cells.
+
+Key Areas:
+1. DNA and RNA:
+   - Structure of nucleic acids.
+   - Roles of mRNA, tRNA, and rRNA.
+
+2. DNA Replication:
+   - Enzymes such as helicase and DNA polymerase.
+   - Semi-conservative replication mechanism.
+
+3. Gene Expression:
+   - Transcription, RNA processing, and translation.
+   - Protein synthesis.
+
+4. Gene Regulation:
+   - Operons, transcription factors, epigenetics.
+   - Control of gene activity.
+
+5. Mutations:
+   - Point mutations, insertions, deletions.
+   - Effects on proteins and traits.
+
+6. Molecular Techniques:
+   - PCR, electrophoresis, sequencing.
+   - CRISPR and genetic engineering.
+
+Applications:
+- Medicine, biotechnology, agriculture.

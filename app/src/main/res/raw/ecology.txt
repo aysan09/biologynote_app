@@ -1,0 +1,15 @@
+Ecology
+
+Ecology is the scientific study of interactions between organisms and their environment.
+
+Key Concepts:
+- Ecosystem: A community of living organisms and their physical environment.
+- Biotic Factors: Living components like plants and animals.
+- Abiotic Factors: Non-living components like water, soil, and climate.
+- Food Chain: Linear sequence of energy transfer.
+- Food Web: Complex network of feeding relationships.
+- Producers (Autotrophs): Make their own food via photosynthesis.
+- Consumers (Heterotrophs): Herbivores, carnivores, omnivores.
+- Decomposers: Break down organic matter and recycle nutrients.
+- Biodiversity: Variety and variability of life forms.
+- Ecological Succession: Gradual replacement of one community by another.
